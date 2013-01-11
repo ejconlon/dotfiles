@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/usr/local/var/mysql/mysql'
+let g:netrw_dirhist_2='/Users/charolastra/IdeaProjects/jsubschema/target/generated-sources/gen-javabean/net/exathunk/jsubschema/genschema/githubprofile'
+let g:netrw_dirhist_3='/Users/charolastra/code/jsc/WebKit/Source/WebCore/bindings/js'
+let g:netrw_dirhist_4='/Users/charolastra/code/ssa'
